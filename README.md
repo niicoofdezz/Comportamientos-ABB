@@ -39,8 +39,8 @@ Tres simulaciones de **coordinación multirobot** con dos brazos **IRB120** en R
 Comportamientos-ABB/
 ├── Coomportamiento1.rspag   # Trayectoria rectangular coordinada
 ├── comportamiento2.rspag    # Manipulación conjunta de caja
-├── Comportamiento3.rspag    # Construcción de torre Jenga
-└── README.md
+└── Comportamiento3.rspag    # Construcción de torre Jenga
+
 ```
 
 > Los archivos `.rspag` son paquetes de RobotStudio que incluyen la estación completa, los modelos 3D y el código RAPID.
