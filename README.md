@@ -16,7 +16,6 @@
 <br/>
 
 [![RobotStudio](https://img.shields.io/badge/Software-RobotStudio-FF6F00?style=for-the-badge)](https://new.abb.com/products/robotics/robotstudio)
-[![ABB](https://img.shields.io/badge/Robot-IRB120-CC0000?style=for-the-badge)](https://new.abb.com/products/robotics/industrial-robots/irb-120)
 [![RAPID](https://img.shields.io/badge/Language-RAPID-FF6F00?style=for-the-badge)](https://library.e.abb.com/public/688894b98123f87bc1257cc50044e809/Technical%20reference%20manual_RAPID_3HAC16581-1_revJ_en.pdf)
 [![Multirobots](https://img.shields.io/badge/Sistema-Multirobot-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/Multi-robot_system)
 
