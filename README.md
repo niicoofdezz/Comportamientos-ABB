@@ -55,6 +55,12 @@ Ambos robots ejecutan una trayectoria rectangular sincronizada, comenzando y ter
 
 **Técnica:** puntos de trayectoria configurados simétricamente para ambos robots con la misma velocidad y precisión, garantizando la coordinación temporal.
 
+<div align="center">
+
+[![Comportamiento 1](https://img.youtube.com/vi/DN30XWUlnu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=DN30XWUlnu8)
+
+</div>
+
 ---
 
 ### Comportamiento 2 — Manipulación Conjunta de una Caja
@@ -65,6 +71,12 @@ Los dos robots cogen una caja de **200×400×200 mm** situada entre ellos, reali
 - Puntos de agarre programados simétricamente a ambos lados de la caja
 - **Smart Component** con bloques `Attacher` / `Detacher` para simular la manipulación física
 - Señales individuales por robot sincronizadas mediante una **puerta lógica AND**
+
+<div align="center">
+
+[![Comportamiento 2](https://img.youtube.com/vi/ts1j4SMjAEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ts1j4SMjAEI)
+
+</div>
 
 ---
 
@@ -83,6 +95,12 @@ Construcción de una torre de Jenga completa con **6 piezas por robot** (25×75�
 SetDO signal_to_right, 1;
 WaitDI signal_from_right, 1;
 ```
+
+<div align="center">
+
+[![Comportamiento 3](https://img.youtube.com/vi/Ec0SYf0qkGk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ec0SYf0qkGk)
+
+</div>
 
 ---
 
